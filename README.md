@@ -1,7 +1,7 @@
 # 本地知识库问答系统（通义千问 + Chroma）
 ## 环境准备
 
-1. 安装 Python 3.10+
+1. 安装 Python 3.13+
 2. 创建虚拟环境并安装依赖：
    ```bash
    pip install -r requirements.txt
