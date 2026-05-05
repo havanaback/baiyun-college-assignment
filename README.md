@@ -4,8 +4,9 @@
 1. 安装 Python 3.13+
 2. 创建虚拟环境并安装依赖：
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt  如果下载太慢可以试试pip install -r requirements.txt -i  https://pypi.tuna.tsinghua.edu.cn/simple
    ```
+   
 3. 配置 API Key：
    在项目根目录创建 `.env` 文件，添加：
    ```
